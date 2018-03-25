@@ -1,0 +1,5 @@
+===>include scroll.js in your script tags to get things working
+steps to use the sticky header js file in your code
+1.wrap your header into a class called 'header-container';
+2.In your css add class 'fixed-header' and make it position:fixed and apply styling to it,according to what's required
+3.'fixed-header' class will be added to the header-container classed div when the page has scrolled down by 100px 
